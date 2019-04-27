@@ -145,57 +145,103 @@ Operating Requirements
 List of Equipments
 ---------
 High-Speed Centrifuge
+
 Refrigerated Centrifuge
+
 Small Benchtop Centrifuge
+
 PCR Machine
+
 Nano-Drop
+
 Incubator Shaker
+
 Digital Dry-Bath Heat Block
+
 Lab Support Stand with Clamps
+
 Sonicator
+
 Laboratory Scales
+
 Stir Plate
+
 Electrophoresis Power Supplies
+
 Mini-PROTEAN® Tetra Handcast System
 
 Materials and Chemical Reagents
 -------------------------------
 Ni-NTA Agarose
+
 BL21DE3 Competent Cell
+
 LB Agar Plate with Antibiotics
+
 TB medium
+
 IPTG
+
 Protease Inhibitor, EDTA-Free
+
 Imidazole
+
 PBS, pH7.4
+
 Sodium Phosphate Dibasic, Na2HPO4
+
 Sodium Phosphate Monobasic, NaH2PO4
+
 Sodium chloride, NaCl
+
 Trition X-100
+
 2x Laemmli Sample Buffer
+
 DI water, sterilized
+
 Gibson Master Mix
+
 Resolving Buffer
+
 Stacking Buffer
+
 30% Acrylamide/Bis Solution, 29:1
+
 10% SDS Buffer
+
 TEMED
+
 Ammonium Persulfate (APS)
+
 10x Tris / Glycine / SDS
+
 Protein Ladder
+
 Gel Staining Reagent
 
 Laboratory Supplies
 -------------------
 Pipettor and Tip
+
 Racks
+
 Electroporation Cuvettes
+
 Falcon Tubes 50mL / 225mL
+
 Disposable Plastic Cuvettes
+
 Disposable Gravity Flow Column with Adaptors
+
 Concentrator
+
 2L Erlenmeyer Flask
+
 Serological Pipette
+
 Disposable Droppers
+
 Beakers
+
 Gel Loading Tip
