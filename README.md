@@ -16,6 +16,7 @@ Operations of this workflow in Aquarium are divided into three
 categories, including protein induction, His-tagged protein
 purification, and protein verification. Each category is comprised of
 several operations, all built in Aquarium.
+
 ![](media/image1.png)
 
 ### Clone Protein Sequences into pET Vectors
@@ -25,6 +26,7 @@ into pET vectors which contain a His-tag. Once bacterial clones are
 established, the experiment proceeds to the next steps in series, which
 are induction, purification, and verification of His-tagged proteins.
 Those operations will be introduced later.
+
 ![](media/image2.png)
 
 ### Protein Induction in BL21DE3 Competent Cells
@@ -34,6 +36,7 @@ Overexpression*, *IPTG Induction*, and *Harvest Cell*. The purpose is to
 induce the expression of recombinant proteins encoded by pET vectors
 which could be rapidly induced by the addition of
 isopropyl-β-D-thiogalactoside (IPTG).
+
 ![](media/image3.png)
 
 ### His-tagged Protein Purification
@@ -64,16 +67,19 @@ in samples, and to determine the distribution of proteins among
 fractions. This category contains Aquarium operations of *SDS-PAGE
 Sample Preparation*, *SDS-Gel Casting*, *SDS-PAGE Analysis*, and *Scan
 Gel*.
+
 ![](media/image5.png)
 
 Overview
 ========
 Schematic Diagram of the Workflow
 ---------------------------------
+
 ![](media/image6.png)
 
 Timeline and Experiment Duration
 --------------------------------
+
 ![](media/image7.png)
 
 
@@ -92,6 +98,7 @@ be asked to enter the protein size (in molecular weight, kDa) which will
 be used for protein identification in SDS-PAGE analysis. Next, select a
 desired imidazole concentration (mM) in the wash buffer that will be
 used for washing out non-specific binding.
+
 ![](media/image8.png)
 
 ### Build a Purification Plan:
@@ -100,6 +107,7 @@ Directly start from the operation of *Transform Cells* with plasmid DNAs
 which uses pET vectors as expression, and then proceed to the
 purification workflow. An example of Aquarium planner illustrates how to
 build a His-tagged protein purification workflow.
+
 ![](media/image9.png)
 
 ### Launch a plan:
@@ -111,14 +119,17 @@ orange arrow) from Aquarium inventory and plasmid DNA of interest
 respectively. Any plasmid DNA of interest that using pET vectors with
 His-tag and T7 promotor would be compatible with this protein
 purification workflow.
+
 ![](media/image10.png)
 
 Secondly, select a protein sample as an output (indicated with a blue
 arrow).
+
 ![](media/image11.png)
 
 Finally, select Qiagen Ni-NTA for column packing (indicated with a blue
 arrow).
+
 ![](media/image12.png)
 
 Then, save and launch the plan!!
@@ -129,15 +140,18 @@ To test this workflow, we used three plasmid DNAs (SpyTag-Snoopcatcher, SnoopTag
 
 Samples
 -------
+
 ![](media/image13.png)
 
 Concentration
 -------------
 A280 value is measured by Nanodrop to determine protein concentrations.
+
 ![](media/image14.jpeg)
 
 SDS-Gel Image
 -------------
+
 ![](media/image15.png)
 
 Operating Requirements
