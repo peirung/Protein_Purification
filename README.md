@@ -102,7 +102,7 @@ purification workflow. An example of Aquarium planner illustrates how to
 build a His-tagged protein purification workflow.
 ![](media/image9.png)
 
-### Launch a plan
+### Launch a plan:
 
 There are three steps to ensure the plan is submitted correctly before
 launching. Firstly, select the BL21DE3 competent cell (indicated with an
@@ -121,7 +121,7 @@ Finally, select Qiagen Ni-NTA for column packing (indicated with a blue
 arrow).
 ![](media/image12.png)
 
-Then, save and launch the plan.
+Then, save and launch the plan!!
 
 Results of Test Run
 ===================
