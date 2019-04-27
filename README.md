@@ -71,10 +71,7 @@ fractions. This category contains Aquarium operations of *SDS-PAGE
 Sample Preparation*, *SDS-Gel Casting*, *SDS-PAGE Analysis*, and *Scan
 Gel*.![](media/image5.png)
 
-**\
-**
-
-Overview {#overview .ListParagraph}
+Overview
 ========
 
 Schematic Diagram of the Workflow
@@ -86,9 +83,8 @@ Timeline and Experiment Duration
 --------------------------------
 
 ![](media/image7.png)
---------------------------------------------------------------------------------
 
- {#section-3 .ListParagraph}
+
 
 Designing a Plan
 ----------------
@@ -146,7 +142,7 @@ Results of Test Run
 To test this workflow, we used three plasmid DNAs (SpyTag-Snoopcatcher, SnoopTag Spycatcher, and Spycatcher) for a test run. These DNA fragments have been cloned to the pET-29b vector. {#to-test-this-workflow-we-used-three-plasmid-dnas-spytag-snoopcatcher-snooptag-spycatcher-and-spycatcher-for-a-test-run.-these-dna-fragments-have-been-cloned-to-the-pet-29b-vector. .ListParagraph}
 
 
-Samples {#samples .ListParagraph}
+Samples
 -------
 
 ![](media/image13.png)
