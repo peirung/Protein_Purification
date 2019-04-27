@@ -1,4 +1,5 @@
-**Protein Purification Workflow**
+Protein Purification Workflow
+=============================
 
 Introduction
 ============
