@@ -1,9 +1,9 @@
 **Protein Purification Workflow**
 
-Introduction {#introduction .ListParagraph}
+Introduction
 ============
 
-Basic Concept {#basic-concept .ListParagraph}
+Basic Concept
 -------------
 
 This protein purification workflow is based on the affinity of proteins
@@ -11,7 +11,7 @@ tagged with six consecutive histidine residues (His-tag) with
 nickel-nitrilotriacetic acid (Ni-NTA) metal-affinity chromatography
 matrices.
 
-Operations and Features {#operations-and-features .ListParagraph}
+Operations and Features
 -----------------------
 
 Operations of this workflow in Aquarium are divided into three
@@ -21,9 +21,8 @@ several operations, all built in Aquarium.
 
 ![](media/image1.png)
 
-###  {#section .ListParagraph}
 
-### Clone Protein Sequences into pET Vectors {#clone-protein-sequences-into-pet-vectors .ListParagraph}
+### Clone Protein Sequences into pET Vectors
 
 To be compatible with this workflow, protein sequences have to be cloned
 into pET vectors which contain a His-tag. Once bacterial clones are
@@ -33,7 +32,7 @@ Those operations will be introduced later.
 
 ![](media/image2.png)
 
-### Protein Induction in BL21DE3 Competent Cells {#protein-induction-in-bl21de3-competent-cells .ListParagraph}
+### Protein Induction in BL21DE3 Competent Cells
 
 This category includes operations as follows: *Make a Starter*, *Make
 Overexpression*, *IPTG Induction*, and *Harvest Cell*. The purpose is to
@@ -43,9 +42,7 @@ isopropyl-β-D-thiogalactoside (IPTG).
 
 ![](media/image3.png)
 
-###  {#section-1 .ListParagraph}
-
-### His-tagged Protein Purification {#his-tagged-protein-purification .ListParagraph}
+### His-tagged Protein Purification
 
 This category includes *Column Packing*, *Lyse Cell, His-tagged
 Purification,* and *Concentrate Protein*.
@@ -65,7 +62,7 @@ for the elution of the desired protein.
 
 ![](media/image4.png)
 
-### Protein Identification {#protein-identification .ListParagraph}
+### Protein Identification
 
 Protein separation by SDS-PAGE can be used to estimate relative
 molecular weight, to determine the relative abundance of major proteins
@@ -80,12 +77,12 @@ Gel*.![](media/image5.png)
 Overview {#overview .ListParagraph}
 ========
 
-Schematic Diagram of the Workflow {#schematic-diagram-of-the-workflow .ListParagraph}
+Schematic Diagram of the Workflow
 ---------------------------------
 
 ![](media/image6.png)
 
-Timeline and Experiment Duration {#timeline-and-experiment-duration .ListParagraph}
+Timeline and Experiment Duration
 --------------------------------
 
 ![](media/image7.png)
@@ -93,14 +90,12 @@ Timeline and Experiment Duration {#timeline-and-experiment-duration .ListParagra
 
  {#section-3 .ListParagraph}
 
-Designing a Plan {#designing-a-plan .ListParagraph}
+Designing a Plan
 ----------------
 
 The following are general guidelines for using this workflow.
 
-1.  2.  3.  
-
-### Start a new plan {#start-a-new-plan .ListParagraph}
+### Start a new plan:
 
 A new protein sample must be created before starting a new plan. To
 create a new sample, click SAMPLES in the Aquarium main menu, and then
@@ -112,7 +107,7 @@ used for washing out non-specific binding.
 
 ![](media/image8.png)
 
-### Build a Purification Plan:  {#build-a-purification-plan .ListParagraph}
+### Build a Purification Plan:
 
 Directly start from the operation of *Transform Cells* with plasmid DNAs
 which uses pET vectors as expression, and then proceed to the
@@ -121,11 +116,7 @@ build a His-tagged protein purification workflow.
 
 ![](media/image9.png)
 
-###  {#section-4 .ListParagraph}
-
-###  {#section-5 .ListParagraph}
-
-### Launch a plan {#launch-a-plan .ListParagraph}
+### Launch a plan
 
 There are three steps to ensure the plan is submitted correctly before
 launching. Firstly, select the BL21DE3 competent cell (indicated with an
@@ -149,34 +140,33 @@ arrow).
 
 Then, save and launch the plan.
 
-Results of Test Run {#results-of-test-run .ListParagraph}
+Results of Test Run
 ===================
 
 To test this workflow, we used three plasmid DNAs (SpyTag-Snoopcatcher, SnoopTag Spycatcher, and Spycatcher) for a test run. These DNA fragments have been cloned to the pET-29b vector. {#to-test-this-workflow-we-used-three-plasmid-dnas-spytag-snoopcatcher-snooptag-spycatcher-and-spycatcher-for-a-test-run.-these-dna-fragments-have-been-cloned-to-the-pet-29b-vector. .ListParagraph}
-========================================================================================================================================================================================
+
 
 Samples {#samples .ListParagraph}
 -------
 
 ![](media/image13.png)
 
-Concentration {#concentration .ListParagraph}
+Concentration
 -------------
 
 A280 value is measured by Nanodrop to determine protein concentrations.
 
-![](media/image14.jpeg){width="5.463924978127734in"
-height="1.241398731408574in"}
+![](media/image14.jpeg)
 
-SDS-Gel Image {#sds-gel-image .ListParagraph}
+SDS-Gel Image
 -------------
 
 ![](media/image15.png)
 
-Operating Requirements {#operating-requirements .ListParagraph}
+Operating Requirements
 ======================
 
-Equipment {#equipment .ListParagraph}
+Equipment
 ---------
 
 High-Speed Centrifuge
@@ -205,7 +195,7 @@ Electrophoresis Power Supplies
 
 Mini-PROTEAN® Tetra Handcast System
 
-Materials and Chemical Reagents {#materials-and-chemical-reagents .ListParagraph}
+Materials and Chemical Reagents
 -------------------------------
 
 Ni-NTA Agarose
@@ -256,7 +246,7 @@ Protein Ladder
 
 Gel Staining Reagent
 
-Laboratory Supplies {#laboratory-supplies .ListParagraph}
+Laboratory Supplies
 -------------------
 
 Pipettor and Tip
