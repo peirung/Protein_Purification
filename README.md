@@ -108,6 +108,7 @@ which uses pET vectors as expression, and then proceed to the
 purification workflow. An example of Aquarium planner illustrates how to
 build a His-tagged protein purification workflow.
 
+
 ![](media/image9.png)
 
 ### Launch a plan:
